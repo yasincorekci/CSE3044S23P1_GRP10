@@ -1,6 +1,6 @@
 <div align="center" >
 
-# **CSE3063 Object Oriented Software Design Project Fall 2022 <br>Group 6** 
+# **CSE3044 Software Engineering Project Spring 2023 <br>Group X** 
 
 <img src="/icons/man.png" width="150">
 
