@@ -11,17 +11,17 @@
 
 |<img src="/icons/card.png" width="30">   | Name & Surname  |<img src="/icons/github.png" width="30">|
 |---|---|---|
-|150119516   |**İsmail ÖKSÜZ**   |<a href="https://github.com/ismailoksuz/">ismailoksuz</a>|
-|150119766   |**Emre SAĞIROĞLU**   |<a href="https://github.com/emresagiroglu/">emresagiroglu</a>|
-|150119036   |**Serkan KORKUT**   |<a href="https://github.com/serkankorkut17/">serkankorkut17</a>|
-|150119553   |**Onur ALKURT**   |<a href="https://github.com/onuralkurt/">onuralkurt</a>|
-|150119639   |**Erdem PEHLİVANLAR**   |<a href="https://github.com/erdemphl/">erdemphl</a>|
-|150118048   |**Mustafa YANAR**   |<a href="https://github.com/myanar7/">myanar7</a>|
-|150119066   |**Ertan KARAOĞLU**   |<a href="https://github.com/ertannk/">ertannk</a>|
-|150116011   |**Mertkan TURAN**   |<a href="https://github.com/mertkan-turan/">mertkan-turan</a>|
-|150119858   |**Yasin ÇÖREKÇİ**   |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
-|150119026   |**Mehmet Akif GÜLMÜŞ**   |<a href="https://github.com/makifgulmus/">makifgulmus</a>|
-|150119059   |**Yunus KAYA**   |<a href="https://github.com/kayayunus37/">kayayunus37</a>|
+|150119858   |**Yasin ÇÖREKCİ**   |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|---------   |**--------------*   |<a href="https://github.com/*****/">***********</a>|
+
+
+
 
 </div>
 <div align="center" >
