@@ -1,6 +1,6 @@
 <div align="center" >
 
-# **CSE3044 Software Engineering Project S'23 <br>Group X** 
+# **CSE3044 Software Engineering Project S'23 <br>Group 10** 
 
 <img src="/icons/man.png" width="150">
 
