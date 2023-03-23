@@ -31,7 +31,7 @@
 
 |Proposal|Literature Survey|RSD|
 |---|---|---|
-|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|
+|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/work-in-progress.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
 
 </div>
 <div align="center">
