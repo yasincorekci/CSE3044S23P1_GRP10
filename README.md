@@ -21,7 +21,6 @@
 |150119738   |**Sefa Görkem Keçeci**   |<a href="https://github.com/gorkemkececi/">gorkemkececi</a>|
 
 
-
 </div>
 <div align="center" >
 <br>
@@ -36,6 +35,7 @@
 </div>
 <div align="center">
 <br>
+
 ### **Additional Links**
 <h1 align="center">
 <a href="https://discord.gg/fa8y4F65v9" target="blank"><img align="center" alt="Discord" src=/icons/discord.png height="70"/></a>
