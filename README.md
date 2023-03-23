@@ -38,7 +38,7 @@
 
 ### **Additional Links**
 <h1 align="center">
-<a href="https://discord.gg/fa8y4F65v9" target="blank"><img align="center" alt="Discord" src=/icons/discord.png height="70"/></a>
+<a href="https://discord.gg/vusQsTg6 target="blank"><img align="center" alt="Discord" src=/icons/discord.png height="70"/></a>
 <a href="https://docs.google.com/" target="blank"><img align="center" alt="Google Docs" src=/icons/google-docs.png height="70"/></a>
 <a href="https://app.diagrams.net//" target="blank"><img align="center" alt="Draw IO" src=/icons/diagram.png height="70"/></a>
 <a href="https://doodle.com/en//" target="blank"><img align="center" alt="Doodle" src=/icons/meeting.png height="70"/></a>
