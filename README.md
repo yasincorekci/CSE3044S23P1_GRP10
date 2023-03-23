@@ -22,7 +22,6 @@
 
 
 
-
 </div>
 <div align="center" >
 <br>
@@ -31,13 +30,12 @@
 
 
 |Proposal|Literature Survey|RSD|
-|---|---|---|---|
-|<img align="center" src=/icons/completed.png height="60"/>|<img align="center"src=/icons/work-in-progress.png height="60"/>|<img align="center" src=/icons/soon.png height="60"/>|
+|---|---|---|
+|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|
 
 </div>
 <div align="center">
 <br>
-
 ### **Additional Links**
 <h1 align="center">
 <a href="https://discord.gg/fa8y4F65v9" target="blank"><img align="center" alt="Discord" src=/icons/discord.png height="70"/></a>
