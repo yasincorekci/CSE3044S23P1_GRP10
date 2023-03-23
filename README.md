@@ -11,14 +11,14 @@
 
 |<img src="/icons/card.png" width="30">   | Name & Surname  |<img src="/icons/github.png" width="30">|
 |---|---|---|
-|150119858   |**Yasin ÇÖREKCİ**   |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
-|---------   |**-------------**   |<a href="https://github.com/*****/">***********</a>|
+|150119858   |**Yasin ÇÖREKCİ**        |<a href="https://github.com/yasincorekci/">yasincorekci</a>|
+|150119678   |**Asaf Talha Gültekin**  |<a href="https://github.com/asafgultekin/">asafgultekin</a>|
+|150119066   |**Ertan Karaoğlu**       |<a href="https://github.com/ertannk/">ertannk</a>|
+|150119039   |**Emir Said Haliloğlu**  |<a href="https://github.com/*****/">***********</a>|
+|150117032   |**Fatih Akgündüz**       |<a href="https://github.com/*****/">***********</a>|
+|150118015   |**Hasan Fatih Başar**    |<a href="https://github.com/*****/">***********</a>|
+|150118024   |**Oruç Berat Turan**     |<a href="https://github.com/*****/">***********</a>|
+|150119738   |**Sefa Görkem Keçeci**   |<a href="https://github.com/*****/">***********</a>|
 
 
 
